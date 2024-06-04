@@ -1,3 +1,6 @@
 [submodule "api-jaksara-v2"]
 	path = api-jaksara-v2
 	url = https://github.com/Adranaut/api-jaksara-v2.git
+[submodule "backend-jaksara"]
+	path = backend-jaksara
+	url = https://github.com/Adranaut/backend-jaksara.git
