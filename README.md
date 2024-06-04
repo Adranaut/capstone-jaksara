@@ -1,6 +1,5 @@
 # ID Grup : <br>
-## C624-PR155 <br>
-<br>
+C624-PR155
 
 # Anggota : <br>
 F2116YB323 - Aditia Prabowo <br>
