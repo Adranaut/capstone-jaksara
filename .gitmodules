@@ -7,3 +7,6 @@
 [submodule "jaksara"]
 	path = jaksara
 	url = https://github.com/Adranaut/jaksara.git
+[submodule "resource-jaksara"]
+	path = resource-jaksara
+	url = https://github.com/Adranaut/resource-capstone.git
